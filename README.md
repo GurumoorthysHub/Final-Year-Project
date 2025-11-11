@@ -85,20 +85,6 @@ Certainly! Here’s the **Components Used** section in plain, professional text 
 
 ***
 
-## 📦 Repository Structure
-
-```
-cardiocare-ai/
-│
-├── app.py
-├── model/
-├── static/
-├── templates/
-├── requirements.txt
-├── README.md
-└── ...
-```
-
 ***
 
 ## 🧠 Key Learning Outcomes
