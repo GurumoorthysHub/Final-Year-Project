@@ -110,9 +110,6 @@ cardiocare-ai/
 
 ***
 
-## 🔗 Project Link
-
-**GitHub Repository:** 👉 https://github.com/your-username/cardiocare-ai
 
 ***
 
