@@ -67,12 +67,6 @@ Certainly! Here’s the **Components Used** section in plain, professional text 
 
 
 
-<img width="931" height="475" alt="image" src="https://github.com/user-attachments/assets/7c0d55d0-b283-4156-b1e2-58ba462cb9b1" />
-
-
-
-
-
 
 
 <img width="791" height="445" alt="image" src="https://github.com/user-attachments/assets/14cab02f-e9d7-4589-9d63-5534382773ce" />
@@ -166,7 +160,7 @@ GitHub Repository:
 
 S Gurumoorthy
 Cloud & DevOps Enthusiast ☁️ | Passionate about Automation, Security, and Scalable Architecture
-📫 Connect on [LinkedIn](https://linkedin.com/in/gurumoorthy-s) | 🖥️ [GitHub](https://github.com/GurumoorthysHub)](https://github.com/GurumoorthysHub)
+📫 Connect on [LinkedIn](https://linkedin.com/in/gurumoorthy-s) | 🖥️ [!GitHub](https://github.com/GurumoorthysHub)
 
 
 
