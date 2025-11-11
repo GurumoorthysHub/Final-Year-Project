@@ -64,7 +64,14 @@ Certainly! Here’s the **Components Used** section in plain, professional text 
 
 
 
+
+
+
 <img width="931" height="475" alt="image" src="https://github.com/user-attachments/assets/7c0d55d0-b283-4156-b1e2-58ba462cb9b1" />
+
+
+
+
 
 
 
@@ -149,13 +156,17 @@ Data-Science
 
 ***
 
+
+
 GitHub Repository:
 👉 https://github.com/GurumoorthysHub/Final-Year-Project.git
-👨‍💻 Author
+
+
+[👨‍💻 Author]
 
 S Gurumoorthy
 Cloud & DevOps Enthusiast ☁️ | Passionate about Automation, Security, and Scalable Architecture
-📫 Connect on [LinkedIn](https://linkedin.com/in/gurumoorthy-s) | 🖥️ [GitHub](https://github.com/GurumoorthysHub)
+📫 Connect on [LinkedIn](https://linkedin.com/in/gurumoorthy-s) | 🖥️ [GitHub](https://github.com/GurumoorthysHub)](https://github.com/GurumoorthysHub)
 
 
 
